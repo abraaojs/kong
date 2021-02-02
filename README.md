@@ -1,7 +1,7 @@
 # kong
 
 
-## Kong with start minikube
+## Kong start minikube
 ``` 
 minikube start --cpus 2 --memory 4096 --disk-size 20g
 
